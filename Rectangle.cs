@@ -38,8 +38,8 @@ namespace Assignment02
 			else
 			{
 				Console.WriteLine("Invalid input. Length must be less than 1200");
+				return -1;
 			}
-			return this.length;
 		}
 
 		public int GetWidth()
@@ -57,8 +57,8 @@ namespace Assignment02
 			else
 			{
 				Console.WriteLine("Invalid input. Width must be less than 1200.");
+				return -1;
 			}
-			return this.width;
 		}
 		public int GetPerimeter()
 		{
