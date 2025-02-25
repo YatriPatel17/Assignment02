@@ -96,5 +96,49 @@ namespace Assignment02.Tests
 			// Assert
 			Assert.That(expected, Is.EqualTo(actual));
 		}
+
+		[Test]
+		public void GetWidth_InitialValue_Returns1()
+		{
+			// Arrange
+			Rectangle rect = new Rectangle();
+
+			// Act
+			int actual = rect.GetWidth();
+			int expected = 1;
+
+			// Assert
+			Assert.That(expected, Is.EqualTo(actual));
+		}
+
+		[Test]
+		public void GetWidth_AfterSettingLength_Returns12()
+		{
+			// Arrange
+			Rectangle rect = new Rectangle();
+			rect.SetWidth(12);
+
+			// Act
+			int actual = rect.GetWidth();
+			int expected = 12;
+
+			// Assert
+			Assert.That(expected, Is.EqualTo(actual));
+		}
+
+		[Test]
+		public void GetWidth_AfterSettingLength_Returns34()
+		{
+			// Arrange
+			Rectangle rect = new Rectangle();
+			rect.SetWidth(34);
+
+			// Act
+			int actual = rect.GetWidth();
+			int expected = 34;
+
+			// Assert
+			Assert.That(expected, Is.EqualTo(actual));
+		}
 	}
 }
