@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\yatri\\Desktop\\Sem 4\\PROG2070-Programming Software Quality A-Sec9\\Assignment02\\",
+  "WorkspaceRootPath": "C:\\Users\\kunjl\\Downloads\\Assignment02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD659BE4-2B07-4C2E-8D30-8243F7B0563D}|Assignment02.Tests\\Assignment02.Tests.csproj|c:\\users\\yatri\\desktop\\sem 4\\prog2070-programming software quality a-sec9\\assignment02\\assignment02.tests\\rectangletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD659BE4-2B07-4C2E-8D30-8243F7B0563D}|Assignment02.Tests\\Assignment02.Tests.csproj|c:\\users\\kunjl\\downloads\\assignment02\\assignment02.tests\\rectangletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD659BE4-2B07-4C2E-8D30-8243F7B0563D}|Assignment02.Tests\\Assignment02.Tests.csproj|solutionrelative:assignment02.tests\\rectangletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4445DB7C-C2CB-479A-B49F-1F08F2CB0129}|Assignment02.csproj|C:\\Users\\yatri\\Desktop\\Sem 4\\PROG2070-Programming Software Quality A-Sec9\\Assignment02\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4445DB7C-C2CB-479A-B49F-1F08F2CB0129}|Assignment02.csproj|C:\\Users\\kunjl\\Downloads\\Assignment02\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4445DB7C-C2CB-479A-B49F-1F08F2CB0129}|Assignment02.csproj|solutionrelative:rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4445DB7C-C2CB-479A-B49F-1F08F2CB0129}|Assignment02.csproj|C:\\Users\\yatri\\Desktop\\Sem 4\\PROG2070-Programming Software Quality A-Sec9\\Assignment02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4445DB7C-C2CB-479A-B49F-1F08F2CB0129}|Assignment02.csproj|C:\\Users\\kunjl\\Downloads\\Assignment02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4445DB7C-C2CB-479A-B49F-1F08F2CB0129}|Assignment02.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD659BE4-2B07-4C2E-8D30-8243F7B0563D}|Assignment02.Tests\\Assignment02.Tests.csproj|C:\\Users\\yatri\\Desktop\\Sem 4\\PROG2070-Programming Software Quality A-Sec9\\Assignment02\\assignment02.tests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD659BE4-2B07-4C2E-8D30-8243F7B0563D}|Assignment02.Tests\\Assignment02.Tests.csproj|C:\\Users\\kunjl\\Downloads\\Assignment02\\assignment02.tests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD659BE4-2B07-4C2E-8D30-8243F7B0563D}|Assignment02.Tests\\Assignment02.Tests.csproj|solutionrelative:assignment02.tests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,17 +26,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "RectangleTest.cs",
-              "DocumentMoniker": "C:\\Users\\yatri\\Desktop\\Sem 4\\PROG2070-Programming Software Quality A-Sec9\\Assignment02\\Assignment02.Tests\\RectangleTest.cs",
+              "DocumentMoniker": "C:\\Users\\kunjl\\Downloads\\Assignment02\\Assignment02.Tests\\RectangleTest.cs",
               "RelativeDocumentMoniker": "Assignment02.Tests\\RectangleTest.cs",
-              "ToolTip": "C:\\Users\\yatri\\Desktop\\Sem 4\\PROG2070-Programming Software Quality A-Sec9\\Assignment02\\Assignment02.Tests\\RectangleTest.cs",
+              "ToolTip": "C:\\Users\\kunjl\\Downloads\\Assignment02\\Assignment02.Tests\\RectangleTest.cs",
               "RelativeToolTip": "Assignment02.Tests\\RectangleTest.cs",
-              "ViewState": "AgIAAK4AAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T22:33:19.727Z",
               "EditorCaption": ""
@@ -45,9 +57,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Rectangle.cs",
-              "DocumentMoniker": "C:\\Users\\yatri\\Desktop\\Sem 4\\PROG2070-Programming Software Quality A-Sec9\\Assignment02\\Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\kunjl\\Downloads\\Assignment02\\Rectangle.cs",
               "RelativeDocumentMoniker": "Rectangle.cs",
-              "ToolTip": "C:\\Users\\yatri\\Desktop\\Sem 4\\PROG2070-Programming Software Quality A-Sec9\\Assignment02\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\kunjl\\Downloads\\Assignment02\\Rectangle.cs",
               "RelativeToolTip": "Rectangle.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAQwEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -57,9 +69,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\yatri\\Desktop\\Sem 4\\PROG2070-Programming Software Quality A-Sec9\\Assignment02\\Assignment02.Tests\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\kunjl\\Downloads\\Assignment02\\Assignment02.Tests\\Class1.cs",
               "RelativeDocumentMoniker": "Assignment02.Tests\\Class1.cs",
-              "ToolTip": "C:\\Users\\yatri\\Desktop\\Sem 4\\PROG2070-Programming Software Quality A-Sec9\\Assignment02\\Assignment02.Tests\\Class1.cs",
+              "ToolTip": "C:\\Users\\kunjl\\Downloads\\Assignment02\\Assignment02.Tests\\Class1.cs",
               "RelativeToolTip": "Assignment02.Tests\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -69,27 +81,13 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\yatri\\Desktop\\Sem 4\\PROG2070-Programming Software Quality A-Sec9\\Assignment02\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\kunjl\\Downloads\\Assignment02\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\yatri\\Desktop\\Sem 4\\PROG2070-Programming Software Quality A-Sec9\\Assignment02\\Program.cs",
+              "ToolTip": "C:\\Users\\kunjl\\Downloads\\Assignment02\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T22:30:41.736Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 129,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
